@@ -1,0 +1,587 @@
+[
+  {
+    "name": "untitled",
+    "preset": {
+      "__sps": {
+        "poly": [
+          {
+            "__sps": {
+              "env.adsr": {
+                "attack": {
+                  "value": 30
+                },
+                "decay": {
+                  "value": 30
+                },
+                "release": {
+                  "value": 300
+                },
+                "sustain": {
+                  "value": 0.5
+                }
+              },
+              "filters": {
+                "__sps": {
+                  "filter.bp": {},
+                  "filter.br": {},
+                  "filter.hp": {},
+                  "filter.lp": {}
+                },
+                "cutoff": {
+                  "value": 8000
+                },
+                "filtertype": {
+                  "value": 0
+                },
+                "resonance_mod": {
+                  "value": 0.71
+                }
+              },
+              "oscillators": {
+                "__sps": {
+                  "oscA": {
+                    "mode": {
+                      "value": 2
+                    }
+                  },
+                  "oscB": {
+                    "mode": {
+                      "value": 2
+                    }
+                  },
+                  "oscC": {
+                    "mode": {
+                      "value": 2
+                    }
+                  }
+                },
+                "detuneA": {
+                  "value": 0
+                },
+                "detuneB": {
+                  "value": 0
+                },
+                "detuneC": {
+                  "value": 0
+                },
+                "levelA": {
+                  "value": 0
+                },
+                "levelB": {
+                  "value": 0.133858267716535
+                },
+                "levelC": {
+                  "value": 0
+                }
+              }
+            }
+          },
+          {
+            "__sps": {
+              "env.adsr": {
+                "attack": {
+                  "value": 30
+                },
+                "decay": {
+                  "value": 30
+                },
+                "release": {
+                  "value": 300
+                },
+                "sustain": {
+                  "value": 0.5
+                }
+              },
+              "filters": {
+                "__sps": {
+                  "filter.bp": {},
+                  "filter.br": {},
+                  "filter.hp": {},
+                  "filter.lp": {}
+                },
+                "cutoff": {
+                  "value": 8000
+                },
+                "filtertype": {
+                  "value": 0
+                },
+                "resonance_mod": {
+                  "value": 0.71
+                }
+              },
+              "oscillators": {
+                "__sps": {
+                  "oscA": {
+                    "mode": {
+                      "value": 2
+                    }
+                  },
+                  "oscB": {
+                    "mode": {
+                      "value": 2
+                    }
+                  },
+                  "oscC": {
+                    "mode": {
+                      "value": 2
+                    }
+                  }
+                },
+                "detuneA": {
+                  "value": 0
+                },
+                "detuneB": {
+                  "value": 0
+                },
+                "detuneC": {
+                  "value": 0
+                },
+                "levelA": {
+                  "value": 0
+                },
+                "levelB": {
+                  "value": 0.133858267716535
+                },
+                "levelC": {
+                  "value": 0
+                }
+              }
+            }
+          },
+          {
+            "__sps": {
+              "env.adsr": {
+                "attack": {
+                  "value": 30
+                },
+                "decay": {
+                  "value": 30
+                },
+                "release": {
+                  "value": 300
+                },
+                "sustain": {
+                  "value": 0.5
+                }
+              },
+              "filters": {
+                "__sps": {
+                  "filter.bp": {},
+                  "filter.br": {},
+                  "filter.hp": {},
+                  "filter.lp": {}
+                },
+                "cutoff": {
+                  "value": 8000
+                },
+                "filtertype": {
+                  "value": 0
+                },
+                "resonance_mod": {
+                  "value": 0.71
+                }
+              },
+              "oscillators": {
+                "__sps": {
+                  "oscA": {
+                    "mode": {
+                      "value": 2
+                    }
+                  },
+                  "oscB": {
+                    "mode": {
+                      "value": 2
+                    }
+                  },
+                  "oscC": {
+                    "mode": {
+                      "value": 2
+                    }
+                  }
+                },
+                "detuneA": {
+                  "value": 0
+                },
+                "detuneB": {
+                  "value": 0
+                },
+                "detuneC": {
+                  "value": 0
+                },
+                "levelA": {
+                  "value": 0
+                },
+                "levelB": {
+                  "value": 0.133858267716535
+                },
+                "levelC": {
+                  "value": 0
+                }
+              }
+            }
+          },
+          {
+            "__sps": {
+              "env.adsr": {
+                "attack": {
+                  "value": 30
+                },
+                "decay": {
+                  "value": 30
+                },
+                "release": {
+                  "value": 300
+                },
+                "sustain": {
+                  "value": 0.5
+                }
+              },
+              "filters": {
+                "__sps": {
+                  "filter.bp": {},
+                  "filter.br": {},
+                  "filter.hp": {},
+                  "filter.lp": {}
+                },
+                "cutoff": {
+                  "value": 8000
+                },
+                "filtertype": {
+                  "value": 0
+                },
+                "resonance_mod": {
+                  "value": 0.71
+                }
+              },
+              "oscillators": {
+                "__sps": {
+                  "oscA": {
+                    "mode": {
+                      "value": 2
+                    }
+                  },
+                  "oscB": {
+                    "mode": {
+                      "value": 2
+                    }
+                  },
+                  "oscC": {
+                    "mode": {
+                      "value": 2
+                    }
+                  }
+                },
+                "detuneA": {
+                  "value": 0
+                },
+                "detuneB": {
+                  "value": 0
+                },
+                "detuneC": {
+                  "value": 0
+                },
+                "levelA": {
+                  "value": 0
+                },
+                "levelB": {
+                  "value": 0.133858267716535
+                },
+                "levelC": {
+                  "value": 0
+                }
+              }
+            }
+          },
+          {
+            "__sps": {
+              "env.adsr": {
+                "attack": {
+                  "value": 30
+                },
+                "decay": {
+                  "value": 30
+                },
+                "release": {
+                  "value": 300
+                },
+                "sustain": {
+                  "value": 0.5
+                }
+              },
+              "filters": {
+                "__sps": {
+                  "filter.bp": {},
+                  "filter.br": {},
+                  "filter.hp": {},
+                  "filter.lp": {}
+                },
+                "cutoff": {
+                  "value": 8000
+                },
+                "filtertype": {
+                  "value": 0
+                },
+                "resonance_mod": {
+                  "value": 0.71
+                }
+              },
+              "oscillators": {
+                "__sps": {
+                  "oscA": {
+                    "mode": {
+                      "value": 2
+                    }
+                  },
+                  "oscB": {
+                    "mode": {
+                      "value": 2
+                    }
+                  },
+                  "oscC": {
+                    "mode": {
+                      "value": 2
+                    }
+                  }
+                },
+                "detuneA": {
+                  "value": 0
+                },
+                "detuneB": {
+                  "value": 0
+                },
+                "detuneC": {
+                  "value": 0
+                },
+                "levelA": {
+                  "value": 0
+                },
+                "levelB": {
+                  "value": 0.133858267716535
+                },
+                "levelC": {
+                  "value": 0
+                }
+              }
+            }
+          },
+          {
+            "__sps": {
+              "env.adsr": {
+                "attack": {
+                  "value": 30
+                },
+                "decay": {
+                  "value": 30
+                },
+                "release": {
+                  "value": 300
+                },
+                "sustain": {
+                  "value": 0.5
+                }
+              },
+              "filters": {
+                "__sps": {
+                  "filter.bp": {},
+                  "filter.br": {},
+                  "filter.hp": {},
+                  "filter.lp": {}
+                },
+                "cutoff": {
+                  "value": 8000
+                },
+                "filtertype": {
+                  "value": 0
+                },
+                "resonance_mod": {
+                  "value": 0.71
+                }
+              },
+              "oscillators": {
+                "__sps": {
+                  "oscA": {
+                    "mode": {
+                      "value": 2
+                    }
+                  },
+                  "oscB": {
+                    "mode": {
+                      "value": 2
+                    }
+                  },
+                  "oscC": {
+                    "mode": {
+                      "value": 2
+                    }
+                  }
+                },
+                "detuneA": {
+                  "value": 0
+                },
+                "detuneB": {
+                  "value": 0
+                },
+                "detuneC": {
+                  "value": 0
+                },
+                "levelA": {
+                  "value": 0
+                },
+                "levelB": {
+                  "value": 0.133858267716535
+                },
+                "levelC": {
+                  "value": 0
+                }
+              }
+            }
+          },
+          {
+            "__sps": {
+              "env.adsr": {
+                "attack": {
+                  "value": 30
+                },
+                "decay": {
+                  "value": 30
+                },
+                "release": {
+                  "value": 300
+                },
+                "sustain": {
+                  "value": 0.5
+                }
+              },
+              "filters": {
+                "__sps": {
+                  "filter.bp": {},
+                  "filter.br": {},
+                  "filter.hp": {},
+                  "filter.lp": {}
+                },
+                "cutoff": {
+                  "value": 8000
+                },
+                "filtertype": {
+                  "value": 0
+                },
+                "resonance_mod": {
+                  "value": 0.71
+                }
+              },
+              "oscillators": {
+                "__sps": {
+                  "oscA": {
+                    "mode": {
+                      "value": 2
+                    }
+                  },
+                  "oscB": {
+                    "mode": {
+                      "value": 2
+                    }
+                  },
+                  "oscC": {
+                    "mode": {
+                      "value": 2
+                    }
+                  }
+                },
+                "detuneA": {
+                  "value": 0
+                },
+                "detuneB": {
+                  "value": 0
+                },
+                "detuneC": {
+                  "value": 0
+                },
+                "levelA": {
+                  "value": 0
+                },
+                "levelB": {
+                  "value": 0.133858267716535
+                },
+                "levelC": {
+                  "value": 0
+                }
+              }
+            }
+          },
+          {
+            "__sps": {
+              "env.adsr": {
+                "attack": {
+                  "value": 30
+                },
+                "decay": {
+                  "value": 30
+                },
+                "release": {
+                  "value": 300
+                },
+                "sustain": {
+                  "value": 0.5
+                }
+              },
+              "filters": {
+                "__sps": {
+                  "filter.bp": {},
+                  "filter.br": {},
+                  "filter.hp": {},
+                  "filter.lp": {}
+                },
+                "cutoff": {
+                  "value": 8000
+                },
+                "filtertype": {
+                  "value": 0
+                },
+                "resonance_mod": {
+                  "value": 0.71
+                }
+              },
+              "oscillators": {
+                "__sps": {
+                  "oscA": {
+                    "mode": {
+                      "value": 2
+                    }
+                  },
+                  "oscB": {
+                    "mode": {
+                      "value": 2
+                    }
+                  },
+                  "oscC": {
+                    "mode": {
+                      "value": 2
+                    }
+                  }
+                },
+                "detuneA": {
+                  "value": 0
+                },
+                "detuneB": {
+                  "value": 0
+                },
+                "detuneC": {
+                  "value": 0
+                },
+                "levelA": {
+                  "value": 0
+                },
+                "levelB": {
+                  "value": 0.133858267716535
+                },
+                "levelC": {
+                  "value": 0
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+]

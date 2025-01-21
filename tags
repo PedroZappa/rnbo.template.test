@@ -1,0 +1,67 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/pi/Documents/zSynthZero/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+CreateDefault	src/CustomAudioProcessor.cpp	/^CustomAudioProcessor* CustomAudioProcessor::CreateDefault() {$/;"	f	class:CustomAudioProcessor	typeref:typename:CustomAudioProcessor *
+CustomAudioEditor	src/CustomAudioEditor.cpp	/^CustomAudioEditor::CustomAudioEditor (RNBO::JuceAudioProcessor* const p, RNBO::CoreObject& rnboO/;"	f	class:CustomAudioEditor
+CustomAudioEditor	src/CustomAudioEditor.h	/^class CustomAudioEditor : public AudioProcessorEditor, private AudioProcessorListener$/;"	c
+CustomAudioProcessor	src/CustomAudioProcessor.cpp	/^CustomAudioProcessor::CustomAudioProcessor($/;"	f	class:CustomAudioProcessor
+CustomAudioProcessor	src/CustomAudioProcessor.h	/^class CustomAudioProcessor : public RNBO::JuceAudioProcessor {$/;"	c
+GrabFocusWhenShownComponentMovementWatcher	src/MainComponent.cpp	/^	GrabFocusWhenShownComponentMovementWatcher(Component *componentToWatch)$/;"	f	class:GrabFocusWhenShownComponentMovementWatcher	file:
+GrabFocusWhenShownComponentMovementWatcher	src/MainComponent.cpp	/^class GrabFocusWhenShownComponentMovementWatcher : public ComponentMovementWatcher, public Timer$/;"	c	file:
+MAINCOMPONENT_H_INCLUDED	src/MainComponent.cpp	/^#define MAINCOMPONENT_H_INCLUDED$/;"	d	file:
+MainContentComponent	src/MainComponent.cpp	/^	MainContentComponent()$/;"	f	class:MainContentComponent	file:
+MainContentComponent	src/MainComponent.cpp	/^class MainContentComponent   : public Component, public RNBO::PatcherChangedHandler, public Asyn/;"	c	file:
+MainWindow	src/Main.cpp	/^        MainWindow (String name)  : DocumentWindow (name,$/;"	f	class:RNBOAppApplication::MainWindow	file:
+MainWindow	src/Main.cpp	/^    class MainWindow    : public DocumentWindow$/;"	c	class:RNBOAppApplication	file:
+RNBOAppApplication	src/Main.cpp	/^    RNBOAppApplication() {}$/;"	f	class:RNBOAppApplication	file:
+RNBOAppApplication	src/Main.cpp	/^class RNBOAppApplication  : public JUCEApplication$/;"	c	file:
+__anone39a78b20102	src/Main.cpp	/^				{$/;"	f	function:RNBOAppApplication::MainWindow::MainWindow	file:
+_audioProcessor	src/CustomAudioEditor.h	/^    AudioProcessor                              *_audioProcessor;$/;"	m	class:CustomAudioEditor	typeref:typename:AudioProcessor *
+_audioProcessor	src/MainComponent.cpp	/^	std::unique_ptr<CustomAudioProcessor>		_audioProcessor;$/;"	m	class:MainContentComponent	typeref:typename:std::unique_ptr<CustomAudioProcessor>	file:
+_audioProcessorEditor	src/MainComponent.cpp	/^	std::unique_ptr<AudioProcessorEditor>		_audioProcessorEditor;$/;"	m	class:MainContentComponent	typeref:typename:std::unique_ptr<AudioProcessorEditor>	file:
+_audioProcessorPlayer	src/MainComponent.cpp	/^	AudioProcessorPlayer	_audioProcessorPlayer;$/;"	m	class:MainContentComponent	typeref:typename:AudioProcessorPlayer	file:
+_deviceManager	src/MainComponent.cpp	/^	AudioDeviceManager		_deviceManager;$/;"	m	class:MainContentComponent	typeref:typename:AudioDeviceManager	file:
+_deviceSelectorComponent	src/MainComponent.cpp	/^	AudioDeviceSelectorComponent _deviceSelectorComponent;$/;"	m	class:MainContentComponent	typeref:typename:AudioDeviceSelectorComponent	file:
+_includesDeviceSelector	src/MainComponent.cpp	/^	bool _includesDeviceSelector = false;$/;"	m	class:MainContentComponent	typeref:typename:bool	file:
+_keyboardFocusGrabber	src/MainComponent.cpp	/^	std::unique_ptr<GrabFocusWhenShownComponentMovementWatcher> _keyboardFocusGrabber;$/;"	m	class:MainContentComponent	typeref:typename:std::unique_ptr<GrabFocusWhenShownComponentMovementWatcher>	file:
+_label	src/CustomAudioEditor.h	/^    Label                                       _label;$/;"	m	class:CustomAudioEditor	typeref:typename:Label
+_midiKeyboardComponent	src/MainComponent.cpp	/^	MidiKeyboardComponent	_midiKeyboardComponent;$/;"	m	class:MainContentComponent	typeref:typename:MidiKeyboardComponent	file:
+_midiKeyboardState	src/MainComponent.cpp	/^	MidiKeyboardState		_midiKeyboardState;$/;"	m	class:MainContentComponent	typeref:typename:MidiKeyboardState	file:
+_rnboObject	src/CustomAudioEditor.h	/^    RNBO::CoreObject&                           _rnboObject; $/;"	m	class:CustomAudioEditor	typeref:typename:RNBO::CoreObject &
+anotherInstanceStarted	src/Main.cpp	/^    void anotherInstanceStarted (const String& commandLine) override$/;"	f	class:RNBOAppApplication	typeref:typename:void	file:
+audioProcessorChanged	src/CustomAudioEditor.h	/^    void audioProcessorChanged (AudioProcessor*, const ChangeDetails&) override { }$/;"	f	class:CustomAudioEditor	typeref:typename:void
+audioProcessorParameterChanged	src/CustomAudioEditor.cpp	/^void CustomAudioEditor::audioProcessorParameterChanged (AudioProcessor*, int parameterIndex, flo/;"	f	class:CustomAudioEditor	typeref:typename:void
+closeButtonPressed	src/Main.cpp	/^        void closeButtonPressed() override$/;"	f	class:RNBOAppApplication::MainWindow	typeref:typename:void	file:
+componentMovedOrResized	src/MainComponent.cpp	/^	void componentMovedOrResized (bool wasMoved, bool wasResized) override$/;"	f	class:GrabFocusWhenShownComponentMovementWatcher	typeref:typename:void	file:
+componentPeerChanged	src/MainComponent.cpp	/^	void componentPeerChanged() override$/;"	f	class:GrabFocusWhenShownComponentMovementWatcher	typeref:typename:void	file:
+componentVisibilityChanged	src/MainComponent.cpp	/^	void componentVisibilityChanged() override$/;"	f	class:GrabFocusWhenShownComponentMovementWatcher	typeref:typename:void	file:
+createEditor	src/CustomAudioProcessor.cpp	/^AudioProcessorEditor* CustomAudioProcessor::createEditor()$/;"	f	class:CustomAudioProcessor	typeref:typename:AudioProcessorEditor *
+createMainContentComponent	src/MainComponent.cpp	/^Component* createMainContentComponent()     { return new MainContentComponent(); }$/;"	f	typeref:typename:Component *
+createPluginFilter	src/Plugin.cpp	/^juce::AudioProcessor* JUCE_CALLTYPE createPluginFilter()$/;"	f	typeref:typename:juce::AudioProcessor * JUCE_CALLTYPE
+getApplicationName	src/Main.cpp	/^    const String getApplicationName() override       { return ProjectInfo::projectName; }$/;"	f	class:RNBOAppApplication	typeref:typename:const String	file:
+getApplicationVersion	src/Main.cpp	/^    const String getApplicationVersion() override    { return ProjectInfo::versionString; }$/;"	f	class:RNBOAppApplication	typeref:typename:const String	file:
+handleAsyncUpdate	src/MainComponent.cpp	/^	void handleAsyncUpdate() override$/;"	f	class:MainContentComponent	typeref:typename:void	file:
+initialise	src/Main.cpp	/^    void initialise (const String& commandLine) override$/;"	f	class:RNBOAppApplication	typeref:typename:void	file:
+loadRNBOAudioProcessor	src/MainComponent.cpp	/^	void loadRNBOAudioProcessor()$/;"	f	class:MainContentComponent	typeref:typename:void	file:
+mainWindow	src/Main.cpp	/^    ScopedPointer<MainWindow> mainWindow;$/;"	m	class:RNBOAppApplication	typeref:typename:ScopedPointer<MainWindow>	file:
+moreThanOneInstanceAllowed	src/Main.cpp	/^    bool moreThanOneInstanceAllowed() override       { return true; }$/;"	f	class:RNBOAppApplication	typeref:typename:bool	file:
+paint	src/CustomAudioEditor.cpp	/^void CustomAudioEditor::paint (Graphics& g)$/;"	f	class:CustomAudioEditor	typeref:typename:void
+paint	src/MainComponent.cpp	/^    void paint (Graphics& g) override$/;"	f	class:MainContentComponent	typeref:typename:void	file:
+patcherChanged	src/MainComponent.cpp	/^	void patcherChanged() override$/;"	f	class:MainContentComponent	typeref:typename:void	file:
+resized	src/MainComponent.cpp	/^    void resized() override$/;"	f	class:MainContentComponent	typeref:typename:void	file:
+setMouseClickGrabsKeyboardFocusOnAllChildren	src/MainComponent.cpp	/^	void setMouseClickGrabsKeyboardFocusOnAllChildren(Component* c, bool way)$/;"	f	class:MainContentComponent	typeref:typename:void	file:
+shutdown	src/Main.cpp	/^    void shutdown() override$/;"	f	class:RNBOAppApplication	typeref:typename:void	file:
+shutdownAudio	src/MainComponent.cpp	/^	void shutdownAudio()$/;"	f	class:MainContentComponent	typeref:typename:void	file:
+systemRequestedQuit	src/Main.cpp	/^    void systemRequestedQuit() override$/;"	f	class:RNBOAppApplication	typeref:typename:void	file:
+timerCallback	src/MainComponent.cpp	/^	void timerCallback() override$/;"	f	class:GrabFocusWhenShownComponentMovementWatcher	typeref:typename:void	file:
+unloadRNBOAudioProcessor	src/MainComponent.cpp	/^	void unloadRNBOAudioProcessor()$/;"	f	class:MainContentComponent	typeref:typename:void	file:
+~CustomAudioEditor	src/CustomAudioEditor.cpp	/^CustomAudioEditor::~CustomAudioEditor()$/;"	f	class:CustomAudioEditor
+~MainContentComponent	src/MainComponent.cpp	/^	~MainContentComponent()$/;"	f	class:MainContentComponent	file:
